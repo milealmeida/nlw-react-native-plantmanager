@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "plantmanager",
+    "name": "Plantmanager",
     "slug": "plantmanager",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "sdkVersion": "41.0.0"
   }
 }
